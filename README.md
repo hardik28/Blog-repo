@@ -1,2 +1,3 @@
 # Blog-repo
-Advance java project
+Advance Java Project using JSP and Servlet.
+
