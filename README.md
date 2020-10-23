@@ -1,5 +1,7 @@
 # Impetus TechBlog
 **I have build a Techblog using JSP, Servlet and MySQL database.**
+**Go to Branch** **|->Impetus-blog**
+      
 
 ## Tools and technologies used
 * JSP - 2.2 +
